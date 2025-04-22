@@ -18,7 +18,10 @@ This project implements a 3D object detection using stereo camera images. The sy
 - NumPy
 - Matplotlib
 - tqdm
+## Model Weights
 
+The trained model weights are too large to include in this repository. 
+You can download them from [Google Drive](https://drive.google.com/drive/folders/1Oepwc-61Vaxppkszfm1ZsJ0mH2hU2pFM?usp=drive_link).
 ### Installation
 
 ```bash
